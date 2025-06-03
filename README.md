@@ -18,5 +18,5 @@
    - `find . -type f -size +100k ! -newermt 2019-03-29 -print0 | sort -z | xargs -0r ls -1`
 
 ## Работа с текстом
-  Команда запуска: python3 main.py input_status_OCT.txt
+   - Команда запуска: `python3 main.py input_status_OCT.txt`
 
